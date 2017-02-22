@@ -1,0 +1,13 @@
+{
+ 	"mysql": {
+ 		"host": "127.0.0.1:3306",
+ 		"user": "root",
+ 		"pass": "s",
+ 		"name": "semaphore"
+ 	},
+ 	"port": "",
+ 	"bugsnag_key": "",
+ 	"tmp_path": "/home/viaedge/ansible-play",
+ 	"cookie_hash": "rvlWjQYsgnzMctiyLq90g6l46xXVsdKeQ+AunBX2M94=",
+ 	"cookie_encryption": "T2F1UNmSufEBK5N4uvu1Rf7DgPQfoBhU7dM53GfD0LA="
+ }
