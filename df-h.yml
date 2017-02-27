@@ -1,0 +1,8 @@
+---
+- hosts: all
+  tasks: 
+     - name: print to stdout
+       command: df -h
+       register: a
+     - debug: msg="{{a.stdout}}"
+     
