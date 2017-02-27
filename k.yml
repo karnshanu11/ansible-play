@@ -2,7 +2,7 @@
 - hosts: all
   tasks: 
      - name: print to stdout
-       command: echo "hello"
+       command: df -h
        register: a
      - debug: msg="{{a.stdout}}"
      
